@@ -1,0 +1,150 @@
+{
+    "spinner": {
+        "loading": "Loading"
+    },
+    "nav": {
+        "about": "About",
+        "skills": "Skills",
+        "projects": "Projects",
+        "experience": "Experience",
+        "education": "Education"
+    },
+    "about": {
+        "title": "Web Developer",
+        "intro": "<b>Translator</b>. <b>Creator</b>. <b>Communicating</b>. These are the words that best define my work. <b>Translating texts</b>, <b>elaborating catalogs</b>, <b>writing codes</b> for website, all this implies <b>translation – of a need, a request or even a desire –</b> and the <b>creation of a result</b>. And all this contributes to <b>communication between people</b>. That is <b>where is my activity</b> and <b>what drives me</b>.",
+        "pdf": "Click to download my resume as a PDF file",
+        "pdflink": "CV_EN",
+        "linkedin": "My profile on Linkedin",
+        "github": "My work on GitHub"
+    },
+    "skills": {
+        "title": "Skills",
+        "skills": [
+            "<b>Translation</b>, <b>creation</b>, <b>communication</b>",
+            "Adobe <b>InDesign</b> & <b>Photoshop</b>, Microsoft <b>Office</b>",
+            "<b>English</b> professional | <b>Portuguese</b> bilingual",
+            "Autonomous, organized, self-made, flexible"
+        ],
+        "languages": "Languages",
+        "environment": "Environment",
+        "databases": "Databases"
+    },
+    "projects": {
+        "title": "Web Projects",
+        "projects": [
+            {
+                "title": "LaMeilleureVersionDeMoi",
+                "description": "A website that presents the activity of Sabrina Appriou, personal development coach, founder of LaMeilleureVersionDeMoi.",
+                "url": "https://lameilleureversiondemoi.netlify.app/",
+                "git": "https://github.com/antoinebollinger/lameilleureversiondemoi",
+                "class": "lameilleureversiondemoi"
+            },
+            {
+                "title": "Antoine Traductions",
+                "description": "My website as a translator. My first septs in web... Originaly developed in only Html & CSS, it is now powered by Php.",
+                "url": "https://www.antoine-traductions.com",
+                "git": "https://github.com/antoinebollinger/antoine-traductions",
+                "class": "traductions"
+            },
+            {
+                "title": "Les timbres de Michel",
+                "description": "Michel needed to offer his duplicate stamps for exchange. I took care of it.",
+                "url": "https://lestimbresdemichel.fr/",
+                "git": "https://github.com/antoinebollinger/lestimbresdemichel.fr",
+                "class": "dumont"
+            },
+            {
+                "title": "Groupomania",
+                "description": "Social network project (Openclassrooms bootcamp). A very special project in my Openclassrooms bootcamp, the final one. Using node.js and Express for the back, and Vue.js for the front.",
+                "url": "https://ab-groupomania.netlify.app/",
+                "git": "https://github.com/antoinebollinger/AntoineBollinger_7_03022021",
+                "class": "groupomania"
+            },
+            {
+                "title": "Orinoco",
+                "description": "eCommerce website (Openclassrooms bootcamp). For this, we already had the back-end. We had to write from scratch the front-end, in Javascript.",
+                "url": "https://ab-orinoco.netlify.app/index.html",
+                "git": "https://github.com/antoinebollinger/AntoineBollinger_5_15122020",
+                "class": "orinoco"
+            },
+            {
+                "title": "Ohmyfood",
+                "description": "Project Integrate a mobile website with animations in CSS. Add CSS animations in a website was very funny!",
+                "url": "https://ab-ohmyfood.netlify.app/",
+                "git": "https://github.com/antoinebollinger/AntoineBollinger_3_18112020",
+                "class": "ohmyfood"
+            }
+        ]
+    },
+    "experience": {
+        "title": "Experience Pro",
+        "experiences": [
+            {
+                "title": "Developer | Marketing Assistant",
+                "class": "osborn",
+                "company": "Osborn Unipol SAS | Industry",
+                "date": "February 2017 - Today",
+                "description": "Creation and management of product databases (MySQL).<br/>Creation of a CRM website. Operational marketing: mailing campaign, creation of brochures & catalogs.",
+                "learned": "What I've learned : Indesign, VBA, PHP + MySQL + JQuery."
+            },
+            {
+                "title": "Reservations agent",
+                "class": "duga",
+                "company": "Duga Paris | Turism",
+                "date": "September 2010 - May 2016",
+                "description": "Processing of customer requests, animation of a network of professional customers.",
+                "learned": "What I've learned : Business Management, logistic, marketing, Html + CSS (website building)."
+            },
+            {
+                "title": "Translator Portuguese | French",
+                "class": "worker",
+                "company": "Self-employed",
+                "date": "May 2010 - Today",
+                "description": "Translation of academic (doctoral theses, scientific articles and works) and legal (contracts) documents.",
+                "learned": "What I've learned : Administrative and accounting management, Html + CSS (website building)."
+            },
+            {
+                "title": "Crew Member",
+                "class": "mcdo",
+                "company": "McDonlads France | Restoration",
+                "date": "March 2007 - September 2010",
+                "description": "Preparation & sales of products, cleanliness & hygiene of the restaurant.",
+                "learned": "What I've learned : Rigor, speed, teamwork, customer relationship."
+            }
+        ]
+    },
+    "education": {
+        "title": "Education",
+        "educations": [
+            {
+                "title": "Full-stack Web Developer",
+                "school": "Openclassrooms",
+                "date": "November 2020 - April 2021",
+                "description": "7 Projects training program under the supervision of a professional mentor:",
+                "list": [
+                    "Take Ownership of the Web Developer Path",
+                    "Turn Mock-ups Into a Web Page (Html & CSS)",
+                    "Integrate a mobile website with animations in CSS",
+                    "Optimize an Existing Website (SEO)",
+                    "Build an eCommerce Website (Javascript)",
+                    "Build a Secure API for a Review App (Node.js, Express, MongoDB)",
+                    "Build a Full-Stack Solution (Vue.js, MySQL)"
+                ]
+            },
+            {
+                "title": "Licence Langues, Littératures et Civilisations Étrangères (LLCE) Portuguese (2 years of studies)",
+                "school": "University Paris III Sorbonne Nouvelle",
+                "date": "2007 - 2009",
+                "description": "",
+                "list": []
+            },
+            {
+                "title": "Baccalauréat Sciences et Technologies de l’Industrie (STI) Génie Mécanique, Option Productique, Mention Bien",
+                "school": "Lycée Blaise Pascal, Colmar (68)",
+                "date": "2002",
+                "description": "",
+                "list": []
+            }
+        ]
+    }
+}

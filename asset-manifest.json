@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8c121bb.chunk.css",
+    "main.js": "/static/js/main.7c603dbb.chunk.js",
+    "main.js.map": "/static/js/main.7c603dbb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.41de4d9a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.41de4d9a.js.map",
+    "static/js/2.213e606d.chunk.js": "/static/js/2.213e606d.chunk.js",
+    "static/js/2.213e606d.chunk.js.map": "/static/js/2.213e606d.chunk.js.map",
+    "static/js/3.eb7ca731.chunk.js": "/static/js/3.eb7ca731.chunk.js",
+    "static/js/3.eb7ca731.chunk.js.map": "/static/js/3.eb7ca731.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e8c121bb.chunk.css.map": "/static/css/main.e8c121bb.chunk.css.map",
+    "static/js/2.213e606d.chunk.js.LICENSE.txt": "/static/js/2.213e606d.chunk.js.LICENSE.txt",
+    "static/media/CV_EN.f7fb2ef7.pdf": "/static/media/CV_EN.f7fb2ef7.pdf",
+    "static/media/CV_FR.02e1239b.pdf": "/static/media/CV_FR.02e1239b.pdf",
+    "static/media/custom.scss": "/static/media/sorbonne.25c9a435.png",
+    "static/media/mongoDB.9df640d4.png": "/static/media/mongoDB.9df640d4.png",
+    "static/media/mysql.0631b038.png": "/static/media/mysql.0631b038.png",
+    "static/media/node_express.4f6e3a7b.png": "/static/media/node_express.4f6e3a7b.png",
+    "static/media/php.218a31ee.jpg": "/static/media/php.218a31ee.jpg",
+    "static/media/postman.92be09dc.png": "/static/media/postman.92be09dc.png",
+    "static/media/profile.6363a304.jpg": "/static/media/profile.6363a304.jpg",
+    "static/media/react_complete.e3bb266e.png": "/static/media/react_complete.e3bb266e.png",
+    "static/media/vcs.7b68772a.png": "/static/media/vcs.7b68772a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41de4d9a.js",
+    "static/js/2.213e606d.chunk.js",
+    "static/css/main.e8c121bb.chunk.css",
+    "static/js/main.7c603dbb.chunk.js"
+  ]
+}

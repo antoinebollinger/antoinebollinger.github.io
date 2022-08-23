@@ -1,0 +1,150 @@
+{
+    "spinner": {
+        "loading": "Chargement"
+    },
+    "nav": {
+        "about": "Accueil",
+        "skills": "Compétences",
+        "projects": "Projets",
+        "experience": "Expériences",
+        "education": "Formation"
+    },
+    "about": {
+        "title": "Développeur Web",
+        "intro": "<b>Traducteur</b>. <b>Créateur</b>. <b>Communiquant</b>. Voilà les termes qui définissent le mieux mon travail. Que ce soit la <b>traduction de textes</b>, <b>l’élaboration de catalogues</b>, <b>l’écriture du code</b> d’un site web, tout cela implique la <b>traduction - d’un besoin, d’une demande voire d’une envie -</b> et la <b>création d’un résultat</b>. Et tout cela participe à la <b>communication entre les personnes</b>. C’est <b>à ce carrefour que se situe mon activité</b> et <b>ce qui m'anime</b>.",
+        "pdf": "Cliquez pour télécharger mon CV au format PDF",
+        "pdflink": "CV_FR",
+        "linkedin": "Mon profil sur Linkedin",
+        "github": "Mon travail sur GitHub"
+    },
+    "skills": {
+        "title": "Compétences",
+        "skills": [
+            "<b>Traduction</b>, <b>création</b>, <b>communication</b>",
+            "Adobe <b>InDesign</b> & <b>Photoshop</b>, Microsoft <b>Office</b>",
+            "<b>Anglais</b> professionnel | <b>Portugais</b> bilingue",
+            "Autonome, organisé, autodidacte, flexible"
+        ],
+        "languages": "Langages",
+        "environment": "Environnement",
+        "databases": "Bases de données"
+    },
+    "projects": {
+        "title": "Projets Web",
+        "projects": [
+            {
+                "title": "LaMeilleureVersionDeMoi",
+                "description": "Sabrina, coach en développement personnel et fondatrice de LaMeilleureVersionDeMoi, souhaite développer sa visibilité sur le net et m'a confié la création de son site.",
+                "url": "https://lameilleureversiondemoi.netlify.app/",
+                "git": "https://github.com/antoinebollinger/lameilleureversiondemoi",
+                "class": "lameilleureversiondemoi"
+            },
+            {
+                "title": "Antoine Traductions",
+                "description": "Mon site en tant que traducteur. Mes premiers pas dans le web... D'abord en simple Html & Css, j'ai ensuite refondu le site en Php.",
+                "url": "https://www.antoine-traductions.com",
+                "git": "https://github.com/antoinebollinger/antoine-traductions",
+                "class": "traductions"
+            },
+            {
+                "title": "Les timbres de Michel",
+                "description": "Michel avait besoin de proposer ses timbres en double pour échange. Je m'en suis chargé.",
+                "url": "https://lestimbresdemichel.fr/",
+                "git": "https://github.com/antoinebollinger/lestimbresdemichel.fr",
+                "class": "dumont"
+            },
+            {
+                "title": "Groupomania",
+                "description": "Projet de réseau social dans le cadre de ma formation Openclassrooms. Un très beau projet final : back-end avec Node.js et Express, front-end avec Vue.js.",
+                "url": "https://ab-groupomania.netlify.app/",
+                "git": "https://github.com/antoinebollinger/AntoineBollinger_7_03022021",
+                "class": "groupomania"
+            },
+            {
+                "title": "Orinoco",
+                "description": "Projet de site e-commerce (formation Openclassrooms). Ecrit en pur Javascript (le back étant fourni), un projet complet et très instructif.",
+                "url": "https://ab-orinoco.netlify.app/index.html",
+                "git": "https://github.com/antoinebollinger/AntoineBollinger_5_15122020",
+                "class": "orinoco"
+            },
+            {
+                "title": "Ohmyfood",
+                "description": "Projet Dynamiser un site (animations CSS). Ajouter les animations CSS a été un grand plaisir !",
+                "url": "https://ab-ohmyfood.netlify.app/",
+                "git": "https://github.com/antoinebollinger/AntoineBollinger_3_18112020",
+                "class": "ohmyfood"
+            }
+        ]
+    },
+    "experience": {
+        "title": "Expériences Pro",
+        "experiences": [
+            {
+                "title": "Développeur | Assistant Marketing Op.",
+                "class": "osborn",
+                "company": "Osborn Unipol SAS | Industrie",
+                "date": "Février 2017 - Aujourd'hui",
+                "description": "Création et gestion de la base de données produits (MySQL).<br/>Création d’un site internet CRM. Marketing opérationnel : campagne mailing, création de brochures & catalogues.",
+                "learned": "Acquis : Indesign, VBA, PHP + MySQL + JQuery."
+            },
+            {
+                "title": "Agent de réservation",
+                "class": "duga",
+                "company": "DUGA SARL | Tourisme, VTC",
+                "date": "Septembre 2010 - Mai 2016",
+                "description": "Traitement des demandes des clients, animation d’un réseau de clients professionnels.",
+                "learned": "Acquis : Gestion d’entreprise, logistique, marketing, Html + CSS (création du site Internet)."
+            },
+            {
+                "title": "Traducteur Portugais | Français",
+                "class": "worker",
+                "company": "Auto-entrepreneur",
+                "date": "Mai 2010 - Aujourd'hui",
+                "description": "Traduction de documents académiques (thèses de doctorat, articles et ouvrages scientifiques) et juridiques (contrats).",
+                "learned": "Acquis : Gestion administrative et comptable, Html + CSS (création du site Internet)."
+            },
+            {
+                "title": "Équipier polyvalent",
+                "class": "mcdo",
+                "company": "McDonlads France | Restauration",
+                "date": "Mars 2007 - Septembre 2010",
+                "description": "Préparation & ventes des produits, propreté & hygiène du restaurant.",
+                "learned": "Acquis : Rigueur, rapidité, travail en équipe, relation client."
+            }
+        ]
+    },
+    "education": {
+        "title": "Formation",
+        "educations": [
+            {
+                "title": "Développeur Web Full-Stack",
+                "school": "Openclassrooms",
+                "date": "Novembre 2020 - Avril 2021",
+                "description": "Formation diplômante en 7 projets sous la tutelle d’un mentor professionnel :",
+                "list": [
+                    "Découvrir le développement web",
+                    "Transformer une maquette en site web (Html & CSS)",
+                    "Dynamiser un site (animations CSS)",
+                    "Optimiser un site (SEO)",
+                    "Construire un site e-commerce (Javascript)",
+                    "Développer une API sécurisée (Node.js, Express, MongoDB)",
+                    "Créer un réseau social (Vue.js, MySQL)"
+                ]
+            },
+            {
+                "title": "Licence Langues, Littératures et Civilisations Étrangères (LLCE) Portugais (2 ans d’études)",
+                "school": "Université Paris III Sorbonne Nouvelle",
+                "date": "2007 - 2009",
+                "description": "",
+                "list": []
+            },
+            {
+                "title": "Baccalauréat Sciences et Technologies de l’Industrie (STI) Génie Mécanique, Option Productique, Mention Bien",
+                "school": "Lycée Blaise Pascal, Colmar (68)",
+                "date": "2002",
+                "description": "",
+                "list": []
+            }
+        ]
+    }
+}

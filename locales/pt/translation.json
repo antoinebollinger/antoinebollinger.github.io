@@ -1,0 +1,145 @@
+{
+    "spinner": {
+        "loading": "Carregando"
+    },
+    "nav": {
+        "about": "Sobre mim",
+        "skills": "Competências",
+        "projects": "Projetos",
+        "experience": "Experiências",
+        "education": "Educação"
+    },
+    "about": {
+        "title": "Desenvolvedor Web",
+        "intro": "<b>Tradução</b>. <b>Criação</b>. <b>Comunicação</b>. Eis os termos que melhor definem o meu trabalho. Seja <b>tradução de textos</b>, <b>elaboração de catálogos</b>, <b>redação do código</b> de um website, tudo isso implica a <b>tradução – de uma necessidade, um pedido ou até um desejo –</b> e a <b>criação de um resultado</b>. Et tudo isso participa da <b>comunicação entre as pessoas</b>. <b>É isso que é a minha atividade</b> e <b>é isso que me anima</b>.",
+        "pdf": "Clique para baixar o meu currículo em PDF",
+        "pdflink": "CV_EN",
+        "linkedin": "Meu perfil no Linkedin",
+        "github": "Meu trabalho no GitHub"
+    },
+    "skills": {
+        "title": "Competências",
+        "skills": [
+            "<b>Tradução</b>, <b>criação</b>, <b>comunicação</b>",
+            "Adobe <b>InDesign</b> & <b>Photoshop</b>, Microsoft <b>Office</b>",
+            "<b>Inglês</b> profissional | <b>Português</b> bilingue",
+            "Autônomo, organizado, autodidata, flexível"
+        ],
+        "languages": "Linguagens",
+        "environment": "Ferramentas",
+        "databases": "Bases de dados"
+    },
+    "projects": {
+        "title": "Projetos Web",
+        "projects": [
+            {
+                "title": "LaMeilleureVersionDeMoi",
+                "description": "Sabrina, coach de desenvolvimento pessoal e fundadora do LaMeilleureVersionDeMoi, quer desenvolver sua visibilidade na Internet e me confiou a criação de seu site.",
+                "url": "https://lameilleureversiondemoi.netlify.app/",
+                "git": "https://github.com/antoinebollinger/lameilleureversiondemoi",
+                "class": "lameilleureversiondemoi"
+            },
+            {
+                "title": "Antoine Traductions",
+                "description": "Meu site apresentando o meu trabalho de tradutor. Meus primeiros passos no Web... primeiro escrito em simples Html & CSS, passei agora para o Php.",
+                "url": "https://www.antoine-traductions.com",
+                "class": "traductions"
+            },
+            {
+                "title": "Les timbres de Michel",
+                "description": "Michel precisava de um website para expor a coleção de selos dele. Eu que fiz.",
+                "url": "https://lestimbresdemichel.fr/",
+                "class": "dumont"
+            },
+            {
+                "title": "Groupomania",
+                "description": "Projeto de rede social no contexto da minha formação Openclassrooms. Um projeto final muito interessante, cheio de aprendizagens: back-end com Node.js & Express, front com Vue.js",
+                "url": "https://github.com/antoinebollinger/AntoineBollinger_7_03022021",
+                "class": "groupomania"
+            },
+            {
+                "title": "Orinoco",
+                "description": "Projeto de site eCommerce (formação Openclassrooms). Para este projeto, ja tinhamos o back-end. Bastava escrever o front... em Javascript, 'from scratch'!",
+                "url": "https://ab-orinoco.netlify.app/index.html",
+                "class": "orinoco"
+            },
+            {
+                "title": "OhMyFood",
+                "description": "Projeto Animar um site (animações CSS). Adicionar as animações CSS foi muito divertido!",
+                "url": "https://ab-ohmyfood.netlify.app/",
+                "class": "ohmyfood"
+            }
+        ]
+    },
+    "experience": {
+        "title": "Experiências Pro",
+        "experiences": [
+            {
+                "title": "Desenvolvedor | Assistante Marketing",
+                "class": "osborn",
+                "company": "Osborn Unipol SAS | Industrie",
+                "date": "Fevereiro 2017 - Hoje",
+                "description": "Criação da base de dados dos produtos (MySQL).<br/>Criação de um site interno (CRM). Marketing operacional: campanha de e-mail, criação de brochuras & catálogo.",
+                "learned": "Eu aprendi: Indesign, VBA, PHP + MySQL + JQuery."
+            },
+            {
+                "title": "Agente de reserva",
+                "class": "duga",
+                "company": "DUGA SARL | Turismo",
+                "date": "Setembro 2010 - Maio 2016",
+                "description": "Tratamento das demandas dos clientes, animação de uma rede de clientes profissionais.",
+                "learned": "Eu aprendi: Gestão de empresas, logística, marketing, Html + CSS (criação do site Internet)."
+            },
+            {
+                "title": "Tradutor português-francês",
+                "class": "worker",
+                "company": "Independente",
+                "date": "Maio 2010 - Hoje",
+                "description": "Tradução de documentos académicos (teses de doutorado, artigos e obras científicos) e jurídico (contratos).",
+                "learned": "Eu aprendi: Gestão administrativa e contábil, Html + CSS (criação do site Internet)."
+            },
+            {
+                "title": "Funcionário polivalente",
+                "class": "mcdo",
+                "company": "McDonlads France | Fastfood",
+                "date": "Março 2007 - Setembro 2010",
+                "description": "Preparação e venda de produtos, limpeza e higiene do restaurante.",
+                "learned": "Eu aprendi : Rigor, rapidez, trabalho em conjunto, relação cliente."
+            }
+        ]
+    },
+    "education": {
+        "title": "Educação",
+        "educations": [
+            {
+                "title": "Desenvolvedor Web Full-Stack",
+                "school": "Openclassrooms",
+                "date": "Novembro 2020 - Abril 2021",
+                "description": "Formação em 7 projetos com o acompanhamento de um mentor profissional:",
+                "list": [
+                    "Descobrir o desenvolvimento web",
+                    "Tornar um Mock-up em site web (Html & CSS)",
+                    "Animar um site (animações CSS)",
+                    "Otimisar um site (SEO)",
+                    "Construir um site e-Comércio (Javascript)",
+                    "Desenvolver uma API segura (Node.js, Express, MongoDB)",
+                    "Criar uma rede social (Vue.js, MySQL)"
+                ]
+            },
+            {
+                "title": "Licença Línguas, Literaturas e Civilizações Estrangeiras (LLCE) Português (2 anos de estudo)",
+                "school": "Universidade Paris III Sorbonne Nouvelle",
+                "date": "2007 - 2009",
+                "description": "",
+                "list": []
+            },
+            {
+                "title": "Baccalauréat Sciences et Technologies de l’Industrie (STI) Génie Mécanique, Option Productique, Mention Bien",
+                "school": "Lycée Blaise Pascal, Colmar (68)",
+                "date": "2002",
+                "description": "",
+                "list": []
+            }
+        ]
+    }
+}
